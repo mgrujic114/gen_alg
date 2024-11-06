@@ -1,0 +1,6 @@
+population_size = 50
+repeat = 5
+max_iter = 100
+mut_rate = 0.25
+stddev = 0.02
+outfile = autput
